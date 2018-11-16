@@ -1,0 +1,20 @@
+{
+  "name": "performance-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "operators.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "operators": "node ./operators.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robin2309/performance-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robin2309/performance-sandbox/issues"
+  },
+  "homepage": "https://github.com/robin2309/performance-sandbox#readme"
+}
